@@ -14,7 +14,7 @@ cleo==0.8.1
 clikit==0.6.2
 crashtest==0.3.1
 cryptography==36.0.1
-debugpy==1.6.0
+debugpy==1.5.1
 decorator==5.1.1
 distlib==0.3.4
 dj-database-url==1.2.0
